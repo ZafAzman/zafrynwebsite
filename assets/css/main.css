@@ -1377,7 +1377,7 @@ ul.contact {
       -moz-osx-font-smoothing: grayscale;
       -webkit-font-smoothing: antialiased;
       display: inline-block;
-      font-style: normal;
+      font-style: small;
       font-variant: normal;
       text-rendering: auto;
       line-height: 1;
@@ -1387,7 +1387,7 @@ ul.contact {
     ul.contact li:before {
       color: #B85042;
       display: inline-block;
-      font-size: 1.5em;
+      font-size: 0.85em;
       height: 1.125em;
       left: 0;
       line-height: 1.125em;
