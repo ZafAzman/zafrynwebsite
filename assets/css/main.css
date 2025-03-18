@@ -1357,6 +1357,7 @@ ul.icons {
 
 /* Contact */
 ul.contact {
+  font-size: 1em;
   list-style: none;
   padding: 0; }
   ul.contact li {
