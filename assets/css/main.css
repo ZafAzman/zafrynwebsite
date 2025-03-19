@@ -1382,7 +1382,7 @@ ul.contact {
     ul.contact li:before {
       color: #B85042;
       display: inline-block;
-      font-size: 0.85em;
+      font-size: normal;
       height: 1.125em;
       left: 0;
       line-height: 1.125em;
