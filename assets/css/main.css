@@ -1358,10 +1358,6 @@ ul.icons {
 
 /* Contact */
 ul.contact {
-  display: -moz-flex;
-  display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
   list-style: none;
   padding: 0; }
   ul.contact li {
