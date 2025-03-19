@@ -1190,7 +1190,6 @@ input[type="radio"] + label:before {
   display: block;
   text-decoration: none;
   border-bottom: none;
-  font-size: 10px;
   position: relative; }
   .icon:before {
     -moz-osx-font-smoothing: grayscale;
